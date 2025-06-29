@@ -1,1 +1,1 @@
-quartus_sh --flow compile my_cpu
+quartus_sh --flow compile cpu
