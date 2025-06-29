@@ -1,0 +1,29 @@
+# Quartus build files
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.rpt
+*.smsg
+*.summary
+*.jdi
+*.pin
+*.pof
+*.sof
+*.cdf
+*.sld
+*.eqn
+*.qpf
+*.qsf
+*.qws
+*.qdz
+*.vhd.bak
+*.bak
+
+# Temporary files
+*~
+*.swp
+*.log
+*.bak
+*.sdc~
